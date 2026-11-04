@@ -6,3 +6,12 @@ J'ai récemment co-développé **[Extended-Inputbox](https://github.com/janusdev
 
 * Blog : [https://janusdevikidia.github.io/](https://janusdevikidia.github.io/)
 * Vikidia : [Voir ma page Vikidia](https://fr.vikidia.org/wiki/User:Janus/)
+
+## Compétences
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
